@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hello, I'm Carlos Sedano 🧙🏻‍♂️ </h1>
+<h1 align="center"> Hello, I'm Carlos "Dyno" Sedano 🧙🏻‍♂️ </h1>
 
 <h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
 
