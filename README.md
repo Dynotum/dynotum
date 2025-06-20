@@ -13,20 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hello, I am "Dyno" 🦖</h1>
+<h1 align="center"> Hello 🦖</h1>
 
 <h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🤔 About
--  **Working :**  Software Developer
--  **Hobbies :**  Videogames 🕹️ | Soccer ⚽ | Barbering 💈
--  **Ask me about :** Anything!, I'm happy to help :v:
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### ✨ Visitors 
